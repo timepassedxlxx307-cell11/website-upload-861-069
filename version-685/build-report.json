@@ -1,0 +1,8 @@
+{
+  "html_files": 2012,
+  "detail_files": 2000,
+  "expected_movie_count": 2000,
+  "analytics_ok": true,
+  "missing_analytics": [],
+  "zip_size_bytes": 11890432
+}
